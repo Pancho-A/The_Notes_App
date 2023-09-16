@@ -1,6 +1,6 @@
 class View:
     def greeting(self):
-        print("Приложение 'Заметки'")
+        print("Приложение" + " " + "Заметки")
 
     def show_main_menu(self):
         print("Выберите пункт меню:\n"
